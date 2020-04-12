@@ -1,9 +1,4 @@
 {
   "authenticationMethod": "route",
-  "routes": [{
-        "source": "^/resources/sap/ui/iot/(.*)$",
-        "destination": "IOTAS_CONTROLS",
-        "target": "/sap/ui/iot/$1",
-        "csrfProtection": false
-    }]
+  "routes": []
 }
