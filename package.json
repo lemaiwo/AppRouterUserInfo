@@ -6,6 +6,8 @@
 	}, 
 	"dependencies": {
 		"@sap/approuter": "6.5.0",
+		"@sap/xssec":"latest",
+		"@sap/xsenv":"latest",
 		"cfenv":"1.2.2",
 		"jwt-decode":"2.2.0",
 		"request":"latest",
